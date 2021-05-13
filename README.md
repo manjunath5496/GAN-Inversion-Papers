@@ -93,80 +93,73 @@ Designing Two Dimensional Local Attention Mechanisms for Generative Models</a></
 <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(49).pdf" style="text-decoration:none;">One Network to Solve Them All — Solving Linear Inverse Problems using Deep Projection Models</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(50).pdf" style="text-decoration:none;">TediGAN: Text-Guided Diverse Face Image Generation and Manipulation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(51).pdf" style="text-decoration:none;">StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(52).pdf" style="text-decoration:none;">Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(53).pdf" style="text-decoration:none;">Generating images from caption and vice versa via CLIP-Guided Generative Latent Space Search</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(54).pdf" style="text-decoration:none;">MimicGAN: Robust Projection onto Image Manifolds with Corruption Mimicking </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(55).pdf" style="text-decoration:none;">Progressive Growing of GANs for Improved Quality, Stability, and Variation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(56).pdf" style="text-decoration:none;">Inverting The Generator Of A Generative Adversarial Network </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(57).pdf" style="text-decoration:none;">Image Processing Using Multi-Code GAN Prior</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(58).pdf" style="text-decoration:none;">Few-shot Semantic Image Synthesis Using StyleGAN Prior</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(59).pdf" style="text-decoration:none;">Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(60).pdf" style="text-decoration:none;">Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(61).pdf" style="text-decoration:none;">Only a Matter of Style:
+Age Transformation Using a Style-Based Regression Model</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(62).pdf" style="text-decoration:none;">StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(63).pdf" style="text-decoration:none;">Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(64).pdf" style="text-decoration:none;">Towards Understanding the Invertibility of Convolutional Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(65).pdf" style="text-decoration:none;">Invertibility of Convolutional Generative Networks from Partial Measurements </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(66).pdf" style="text-decoration:none;">LOHO: Latent Optimization of Hairstyles via Orthogonalization</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(67).pdf" style="text-decoration:none;">Improved StyleGAN Embedding: Where are the Good Latents?</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(68).pdf" style="text-decoration:none;">Analyzing and Improving the Image Quality of StyleGAN</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(69).pdf" style="text-decoration:none;">In&Out : Diverse Image Outpainting via GAN Inversion</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(70).pdf" style="text-decoration:none;">Image2StyleGAN++: How to Edit the Embedded Images?</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(71).pdf" style="text-decoration:none;">Exploring Adversarial Fake Images on Face Manifold</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(72).pdf" style="text-decoration:none;">Paint by Word</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(73).pdf" style="text-decoration:none;">OSTeC: One-Shot Texture Completion</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(74).pdf" style="text-decoration:none;">When and How Can Deep Generative Models be Inverted?</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(75).pdf" style="text-decoration:none;">On the Inversion of Deep Generative Models</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(76).pdf" style="text-decoration:none;">Unsupervised 3D Shape Completion through GAN Inversion</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(77).pdf" style="text-decoration:none;">Improving Inversion and Generation Diversity in StyleGAN using a Gaussianized Latent Space</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(78).pdf" style="text-decoration:none;">Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(79).pdf" style="text-decoration:none;">Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(80).pdf" style="text-decoration:none;">A Style-Based Generator Architecture for Generative Adversarial Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(81).pdf" style="text-decoration:none;">Task-Aware Compressed Sensing with Generative Adversarial Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(82).pdf" style="text-decoration:none;">Precise Recovery of Latent Vectors from Generative Adversarial Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(83).pdf" style="text-decoration:none;">LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(84).pdf" style="text-decoration:none;">Inverting The Generator Of A Generative Adversarial Network</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GAN-Inversion-Papers/blob/master/gn(85).pdf" style="text-decoration:none;">DeepLandscape: Adversarial Modeling of
+Landscape Videos</a></li>
   </ul>
